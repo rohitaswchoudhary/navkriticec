@@ -5,7 +5,7 @@
 }
 
 .top-container{
-    background-image: url(../assets/images/bg/bg-bada.png);
+    background-image: url(assets/images/bg/bg-bada.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-attachment: fixed; */
@@ -251,7 +251,7 @@
 /* ABOUT US SECTION  STRAT  */
 
 .about-us{
-    background-image: url(../assets/images/bg/2nd-page-bg.png);
+    background-image: url(assets/images/bg/2nd-page-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-attachment: fixed; */
